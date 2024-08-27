@@ -1,6 +1,6 @@
-# TechTitans_Automated_Weapon_Detection_Using_YOLOv8
-
 # Project Name
+
+# TechTitans_Automated_Weapon_Detection_Using_YOLOv8
 
 ## Team Information
 
