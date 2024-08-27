@@ -7,7 +7,7 @@
 - **[Grishma Yenchilwar]** - [Team Leader]
 - **[Arshiya Saiyyad]** - [Team member]
 - **[Ekta Kature]** - [Team member]
-- **[Pranali Sharma]** - [Team member]
+- **[Pranali Sharma]** - [Team member] 
 -  **[Vishakha Udapurkar]** - [Team member]
 
 ## Mentor
