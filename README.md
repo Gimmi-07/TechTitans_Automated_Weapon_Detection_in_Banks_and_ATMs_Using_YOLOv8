@@ -132,6 +132,3 @@ To deploy the trained YOLOv8 model for object detection, it will follow these st
 
 This project demonstrates the process of creating a custom object detection model using YOLOv8. From annotating data with LabelImg, training the model on Google Colab, to implementing the model in VS Code, each step is crucial for achieving accurate and efficient object detection. With this guide, you can adapt the methodology to different datasets and objects.
 
-Feel free to contribute to this project by submitting issues or pull requests. For any questions or feedback, please reach out through the project's repository.
-
-Happy coding!
